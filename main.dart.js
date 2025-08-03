@@ -85636,7 +85636,7 @@ o=p.d
 q=A.bH(f,q.de(0,o==null?p.gbI():o).b*0.001,f)
 p=A.RM(A.cE(f,B.m,B.a2,!0,f,B.j,!0,A.M(a0).ok.a,"Tech & Desighn Enthusiast",!1),A.I(a0,f,e).w.a.a*0.05)
 o=A.I(a0,f,e).w
-o=A.fV(new A.yH(A.I(a0,f,e).w.a.a*0.8,o.a.b*0.25,f),f,f)
+o=A.fV(new A.yH(A.I(a0,f,e).w.a.a*0.8,o.a.b*0.3,f),f,f)
 n=$.IU()
 m=A.I(a0,f,e).w
 l=A.M(a0).ok.z
